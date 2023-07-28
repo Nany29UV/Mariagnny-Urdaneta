@@ -1,0 +1,94 @@
+.container{
+    text-align: justify !important;
+    display: table;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navbar{
+    background-color:rgb(252, 205, 200) !important;
+    color: white !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.card img{
+    margin: auto auto;
+    display: table;
+    border-radius: 5%;
+    height: 170px;
+    width: 170px;
+}
+
+.card{
+    margin: auto auto;
+    text-align: center;
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h1{
+    text-align: center;
+    color: lightcoral;
+}
+
+h2{
+    text-align: center;
+    color: lightcoral;
+    
+}
+
+h5{
+    text-align: center ;
+    color: lightcoral;
+}
+
+footer{
+    color: black  !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+hr{
+    border: none;
+    color: burlywood;
+    height: 3.5px;
+    background-color: burlywood;
+}
+
+.social{
+    background-color: rgb(252, 205, 200);
+}
+
+.social i{
+    margin: 22px 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+.contacto{
+    text-align: center;
+    margin: auto auto;
+}
+
+.pag{
+    background-color: rgb(144, 197, 199);
+    height: 300px;
+    
+}
+
+ul li{
+    text-align: center;
+}
+
+.pag img{
+    margin-top: 30px;
+    height: 230px;
+    width: 200px;
+
+}
+
+
